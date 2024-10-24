@@ -42,8 +42,6 @@ Finally, Employee has a one-to-many relationship with the Sales Transaction enti
 ![Data_Dictionary](https://github.com/user-attachments/assets/6e1edc17-cd6f-43fb-9bac-dd3db7854289)
 
 ## Queries:
-![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
-
 1. Query 1 displays the category name and its corresponding aisle number. The results are ordered by aisle numbers in ascending order.
 
 ![query1](https://github.com/user-attachments/assets/bac27215-5d7b-4620-a779-050882364075)
@@ -105,4 +103,5 @@ This query allows managers can get a comprehensive list of products along with t
 For grocery store managers, this query is helpful in tracking which employees are handling specific transactions, making it easier to monitor sales performance, manage employee accountability, and identify transaction trends across different staff members.
 
 ## Database information:
+![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
 Name of the database: ha_group7
