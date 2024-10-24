@@ -4,7 +4,6 @@
 39217 Group 7
 
 ## Team Members:
-
 1. Chen, Jennie [@JennieC044](https://github.com/JennieC044)
 2. Ferington, Nick [@NickFer5](https://github.com/NickFer5)
 3. Lawler, Elena [@eglawler03](https://github.com/eglawler03)
@@ -15,7 +14,6 @@
 Our Grocery Store Database depicts a database system to streamline the operations of a Grocery Store business. This database facilitates the management of key functions such as inventory control, sales tracking, products and brands, and employee management. Within this centralized data system, out database enhances operational efficiency, improves data accuracy, and provide valuable insights for informed decision-making for Grocery Store Management. Ultimately, the Grocery Store Database supports the store's goal of delivering an exceptional shopping experience while optimizing resources and maximizing profitability.
 
 ## Data Model:
-
 This data model showcases a grocery store's operational data, including products, inventory, sales transactions, and employee details. The Product entity is linked to both Category and Brand, allowing for the organization of products by type (e.g., dairy, beverages) and tracking of the brand of the products. The Inventory entity tracks product stock levels, restock quantities, and dates, ensuring that the store remains well-supplied. Sales data is captured through two interconnected tables: Sales Transaction, which logs overall transaction details like payment type and total price, and Sales Transaction Details, which records the specific products and quantity sold in each transaction. Lastly, the Employee entity connects staff members to the sales they process, supporting workforce management and performance tracking. The relationships between these entities ensure comprehensive data storage for managing day-to-day operations.
 
 The Product entity serves as the foundation of the data model. It stores the product name, description, price, and expiration date. Category and Brand use the Product entity as the linking entity in a many-to-many relationship. A brand can be associated with many categories and a category can be associated with many brands. 
@@ -107,3 +105,4 @@ This query allows managers can get a comprehensive list of products along with t
 For grocery store managers, this query is helpful in tracking which employees are handling specific transactions, making it easier to monitor sales performance, manage employee accountability, and identify transaction trends across different staff members.
 
 ## Database information:
+Name of the database: ha_group7
