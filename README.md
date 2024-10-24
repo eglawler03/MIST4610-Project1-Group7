@@ -105,3 +105,4 @@ For grocery store managers, this query is helpful in tracking which employees ar
 ## Database information:
 ![Queries](https://github.com/user-attachments/assets/37204bab-ca5e-4f11-bae6-e37f3c5dca67)
 Name of the database: ha_group7
+All queries are bookmarked and can be called using this format: CALL TP_Q1();
